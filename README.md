@@ -18,12 +18,10 @@ O projeto tem como objetivo aplicar técnicas de **Deep Learning** para o reconh
 - Explorar conceitos fundamentais de Deep Learning, como filtros convolucionais, pooling, camadas densas e softmax.
 - Proporcionar uma base prática para projetos futuros envolvendo imagens, IoT ou aplicações em reconhecimento de padrões.
 
-## Estrutura do Repositório
+## Estrutura do Projeto
 
-- `train_model.py` – Código para treinar a CNN com EMNIST Letters.
-- `evaluate_model.py` – Avaliação do modelo e geração da matriz de confusão.
-- `requirements.txt` – Dependências do projeto.
-- `README.md` – Documentação e explicação do projeto.
+Como o desenvolvimento é realizado no **Google Colab**, não há estrutura formal de pastas do repositório. Todo o código, análises e visualizações são realizados diretamente nos notebooks.
+
 
 ## Resultados Esperados
 
