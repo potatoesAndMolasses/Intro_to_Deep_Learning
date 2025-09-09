@@ -5,7 +5,7 @@
 
 ## Motivação
 
-O avanço exponencial de dados gerados em diferentes áreas exige soluções capazes de extrair padrões complexos de forma eficiente. O **Deep Learning (DL)** oferece ferramentas poderosas para análise de imagens, sinais e textos, permitindo desde reconhecimento de padrões visuais até detecção de anomalias. Estudar DL permite compreender os mecanismos que possibilitam máquinas aprenderem representações profundas de dados e criarem modelos preditivos precisos, aplicáveis em aplicações como Internet das Coisas (IoT), visão computacional, NLP e automação inteligente.
+O avanço exponencial de dados gerados em diferentes áreas exige soluções capazes de extrair padrões complexos de forma eficiente. O **Deep Learning (DL)** oferece ferramentas poderosas para análise de imagens, sinais e textos, permitindo desde reconhecimento de padrões visuais até detecção de anomalias.
 
 ## Objetivo do Projeto
 
